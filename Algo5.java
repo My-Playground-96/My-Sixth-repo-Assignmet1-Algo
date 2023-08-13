@@ -9,7 +9,7 @@ private static Scanner scanner = new Scanner(System.in);
         char [] array;
         boolean flag = false;
         char char1;
-        char char2;
+
         do{
             System.out.println("Enter your text(ASCII only): ");
             text = scanner.nextLine().strip();
